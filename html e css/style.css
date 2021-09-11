@@ -1,0 +1,19 @@
+div.box{
+    background-color: #ff218e;
+    border: dotted 3px black
+}
+div.box1 {
+    background-color: #fcd800;
+    border: solid 3px black 
+}
+div.box2 {
+    background-color: #0194fc;
+border: dashed 3px black;
+}
+div {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 30px auto;
+    padding: 40px;
+} 
